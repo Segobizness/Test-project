@@ -4,3 +4,5 @@ print(s)
 print(A)
 b = "Как ты мир?"
 print(b)
+c = "Как дела мир?"
+print(c)
