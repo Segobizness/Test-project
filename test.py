@@ -1,3 +1,4 @@
 s = " Привет мир!"
 A = "Пока мир!"
-print(s+A)
+print(s)
+print(A)
